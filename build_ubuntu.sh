@@ -5,4 +5,4 @@ mkdir build
 cd build
 cmake .. -DCUDA_ENABLE=OFF -DOpenCL_ENABLE=OFF
 make install
-cp ../config.txt .
+cp ../config.txt bin/
