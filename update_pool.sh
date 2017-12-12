@@ -1,2 +1,2 @@
 !#/bin/bash
-cp -rf cpu.txt ./build/bin/ 
+cp -Rf cpu.txt ./build/bin/ 
