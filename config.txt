@@ -13,7 +13,7 @@
  */
 "pool_list" :
 [
-	{"pool_address" : "eupool.electroneum.com:3333", "wallet_address" : "etnkFG1aJU5BtWFLupDrkAR1ArnxeGM5TXSrMxZ6w2vNiHGszQWNz86XDfPvh66EPLEuQFLYeXAT3CsQKNiapb8M29qaDLiJSz", "pool_password" : "x", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+	{"pool_address" : "eetn-eu.cryptominingpool.eu:3333", "wallet_address" : "etnkFG1aJU5BtWFLupDrkAR1ArnxeGM5TXSrMxZ6w2vNiHGszQWNz86XDfPvh66EPLEuQFLYeXAT3CsQKNiapb8M29qaDLiJSz", "pool_password" : "x", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 
 /*
