@@ -1,0 +1,11 @@
+[Unit]
+Description=XMR
+
+[Service]
+Type=simple
+WorkingDirectory=/root/xmr-stak/build/bin
+ExecStart=/root/xmr-stak/build/bin/xmr-stak
+Restart=always
+
+[Install]
+WantedBy=default.target
